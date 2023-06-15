@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmb1230&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skmb1230&show_icons=true&theme=vue)
 <br/>
 <h3 dir="auto">👋, 게으른 개발자</h3>
 <br/>
