@@ -12,7 +12,7 @@
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScriptg&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQueryg&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=Reactg&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjsg&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Nextdotjsg&logoColor=white"/>&nbsp;
 </p>
 
 <h4 tabindex="-1" dir="auto">Backend</h4>
