@@ -10,9 +10,10 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp;
- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=reactg&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Nextdotjsg&logoColor=white"/>&nbsp;
 </p>
 
 <h4 tabindex="-1" dir="auto">Backend</h4>
