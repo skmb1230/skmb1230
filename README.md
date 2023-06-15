@@ -15,7 +15,6 @@
  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>&nbsp;
 </p>
-
 <h4 tabindex="-1" dir="auto">Backend</h4>
 <p dir="auto">
 <img src="https://img.shields.io/badge/Java-FF7800?style=flat-square&logo=Javag&logoColor=white"/>&nbsp;
