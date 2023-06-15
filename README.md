@@ -2,7 +2,7 @@
 <br/>
 <h3 dir="auto">👋, 게으른 개발자</h3>
 <br/>
-<h3 dir="auto">⚙ Skills</h3>
+<h3 dir="auto">💪 Skills</h3>
 
 <hr>
 
