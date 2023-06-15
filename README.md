@@ -17,17 +17,12 @@
 <h4 tabindex="-1" dir="auto">Backend</h4>
 <p dir="auto">
   
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a3f3334e90b76678655dc24a64dfaf50c6c15bbbe75de87f321c792fa4c34795/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/a3f3334e90b76678655dc24a64dfaf50c6c15bbbe75de87f321c792fa4c34795/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/JAVA-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/66cbb7ce6d68837465b20c55bf46c5bb5eb4cbc0344f2375a4f3824561f2d2dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d45787072657373266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/66cbb7ce6d68837465b20c55bf46c5bb5eb4cbc0344f2375a4f3824561f2d2dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3333393933333f7374796c653d666c61742d737175617265266c6f676f3d45787072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Express-339933?style=flat-square&amp;logo=Express&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23FDD508&icon=&icon_color=%23E7E7E7&title=JAVA&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<img alt="JAVA" src ="https://img.shields.io/badge/#6DB33F.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
 
 <h4 tabindex="-1" dir="auto">Database</h4>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b772ec8f2ef6ed0f9e7a42e81d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/373d4fa9ba9245d811336f29bdca4617c00739b772ec8f2ef6ed0f9e7a42e81d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" style="max-width: 100%;"></a> &nbsp;
 &nbsp;
 </p>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
 <!--
 **skmb1230/skmb1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
